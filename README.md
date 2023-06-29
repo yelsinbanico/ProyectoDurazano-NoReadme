@@ -1,2 +1,1 @@
-# jaCourse-Yelsin
-este es un repositorio del modulo 2 de java de yelsin
+este proyecto es un trabajo que nos encargo la empresa don feliciano
